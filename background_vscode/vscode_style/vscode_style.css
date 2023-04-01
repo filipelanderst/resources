@@ -1,0 +1,18 @@
+body {
+  pointer-events: auto !important;
+  background-size: 100% !important;
+  opacity: 0.9625 !important;
+  background-position: 0 0 !important;
+  background-image: url('https://raw.githubusercontent.com/flx-lander7/resources/main/background_vscode/grid-white.png');
+  content: '';
+  position: absolute;
+  z-index: 999;
+  width: 100%;
+  background-repeat: repeat;
+}
+
+@media (min-width: 1000px) {
+  body {
+    background-size: 50% !important;
+  }
+}
