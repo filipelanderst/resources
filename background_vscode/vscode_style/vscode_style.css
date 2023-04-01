@@ -3,7 +3,7 @@ body {
   background-size: 100% !important;
   opacity: 0.9625 !important;
   background-position: 0 0 !important;
-  background-image: url('https://raw.githubusercontent.com/flx-lander7/resources/main/background_vscode/grid-white.png');
+  background-image: url('https://raw.githubusercontent.com/flx-lander7/resources/main/background_vscode/grid-wh.png');
   content: '';
   position: absolute;
   z-index: 999;
